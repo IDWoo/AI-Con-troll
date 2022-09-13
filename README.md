@@ -1,13 +1,14 @@
 # AI-Con-troll
 
 # **나의 첫 번째 마크다운 파일입니다.**
+![임동우-](https://user-images.githubusercontent.com/112921153/189826929-5f4ac4bc-703f-41f0-8fde-68658269de11.jpg)
 > 
 > ##  **학과: 스마트팩토리**
 > ##  **이름: 임동우**   
 > ##  **학번: 2217110228**    
 > ##  **E-Mail: login4419@naver.com**    
 
-![임동우-](https://user-images.githubusercontent.com/112921153/189826929-5f4ac4bc-703f-41f0-8fde-68658269de11.jpg)
+
 
 
 ## 목차    
