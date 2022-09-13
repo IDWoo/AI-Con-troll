@@ -7,7 +7,7 @@
 > ##  **학번: 2217110228**    
 > ##  **E-Mail: login4419@naver.com**    
 
-https://user-images.githubusercontent.com/112921153/189826263-428fdcfb-80fe-48e8-a020-e2cf8158b020.jpg
+[https://user-images.githubusercontent.com/112921153/189826263-428fdcfb-80fe-48e8-a020-e2cf8158b020.jpg](https://github.com/IDWoo/AI-Con-troll/issues/2#issue-1370924281)
 
 ## 목차    
 ###  1. 학력 
