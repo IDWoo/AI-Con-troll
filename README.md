@@ -7,7 +7,8 @@
 > ##  **학번: 2217110228**    
 > ##  **E-Mail: login4419@naver.com**    
 
-[https://user-images.githubusercontent.com/112921153/189826263-428fdcfb-80fe-48e8-a020-e2cf8158b020.jpg](https://github.com/IDWoo/AI-Con-troll/issues/2#issue-1370924281)
+![임동우-](https://user-images.githubusercontent.com/112921153/189826929-5f4ac4bc-703f-41f0-8fde-68658269de11.jpg)
+
 
 ## 목차    
 ###  1. 학력 
