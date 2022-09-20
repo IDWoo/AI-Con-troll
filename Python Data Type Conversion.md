@@ -1,7 +1,7 @@
 # Data Type Conversion
 
 ><table>
-| Sr.No. | Function & Description  |
+| #Sr.No. | #Function & Description  |
 |:------------:|:----------------------------|
 | 1 | **int(x [,base])**      Converts x to an integer. The base specifies the base if x is a string. |
 | 2 | **float(x)**   Converts x to a floating-point number. |
