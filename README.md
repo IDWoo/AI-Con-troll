@@ -1,6 +1,3 @@
-  {% include video.html id="l-hCgD5ig2o" %}  
-
-
 # AI-Con-troll
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIDWoo&count_bg=%23A5FF60&title_bg=%23FFF900&icon=cloudflare.svg&icon_color=%231A1AF2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -58,8 +55,5 @@
 
 
 #### 5.AI 제어실습(python)
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QO9K61NkzuA" frameborder="0" allowfullscreen="" onclick="ga('send', 'event', 'post', 'click', 'youtubePlayer');"></iframe></div>
+
