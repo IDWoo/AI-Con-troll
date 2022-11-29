@@ -55,5 +55,5 @@
 
 
 #### 5.AI 제어실습(python)
-<iframe width="1024" height="720" src="https://www.youtube.com/embed/kTcRRaXV-fg?ecver=1"  
+<iframe> width="1024" height="720" src="https://www.youtube.com/embed/kTcRRaXV-fg?ecver=1"  
  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
