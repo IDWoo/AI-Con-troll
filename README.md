@@ -1,5 +1,3 @@
-<iframe width="640" height="360" src="https://www.youtube.com/embed/kTcRRaXV-fg" title="Abbott & Costello Who's On First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # AI-Con-troll
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIDWoo&count_bg=%23A5FF60&title_bg=%23FFF900&icon=cloudflare.svg&icon_color=%231A1AF2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -57,5 +55,8 @@
 
 
 #### 5.AI 제어실습(python)
- 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/SrnFYm2ITnU" title=""들어가, 죽어"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
