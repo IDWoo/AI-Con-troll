@@ -1,4 +1,4 @@
-  {% include 파일명.html id="https://www.youtube.com/watch?v=kMEb_BzyUqk" %}  
+  {% include video.html id="l-hCgD5ig2o" %}  
 
 
 # AI-Con-troll
