@@ -55,7 +55,4 @@
 
 
 #### 5.AI 제어실습(python)
- {% include video.html id="l-hCgD5ig2o" %}  
-
-
 https://www.youtube.com/watch?v=l-hCgD5ig2o
