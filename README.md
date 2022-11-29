@@ -56,4 +56,4 @@
 
 #### 5.AI 제어실습(python)
  
-<embed> https://youtu.be/l-hCgD5ig2o
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/l-hCgD5ig2o" title="2022년 11월 29일 실습영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
