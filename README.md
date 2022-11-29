@@ -56,3 +56,7 @@
 
 #### 5.AI 제어실습(python)
 https://www.youtube.com/watch?v=l-hCgD5ig2o
+
+
+https://user-images.githubusercontent.com/112921153/204449835-32974fb6-08fa-41fa-bf39-1577b7091bde.mp4
+
